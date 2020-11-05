@@ -1,11 +1,11 @@
-### Hi there 👋
+### Welcome! 👋
 
 
 
 Here are some ideas to get you started:
-  💫 Working as Fullstack Software Engineer
-  🌱 Coding in react, styled-components, and MERN Stack
-  📫 How to reach me: johnarobinson133@gmail.com
+- 💫 Working as Fullstack Software Engineer
+- 🌱 Coding in react, styled-components, and MERN Stack
+- 📫 How to reach me: johnarobinson133@gmail.com
 - 🔭 I’m currently working on ...
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
