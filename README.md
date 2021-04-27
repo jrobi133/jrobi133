@@ -10,5 +10,5 @@
 👔 [linkedin][linkedin]
 
 
-[website]: https://jrobi133.github.io/PortfolioJohnRobinson/
+[website]: https://johns-react-portfolio.herokuapp.com/portfolio
 [linkedin]: https://www.linkedin.com/in/john-robinson-966329b8/
