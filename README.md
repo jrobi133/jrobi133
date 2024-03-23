@@ -11,4 +11,4 @@
 
 
 [website]: https://johns-react-portfolio.herokuapp.com/portfolio
-[linkedin]: https://www.linkedin.com/in/john-robinson-966329b8/
+[linkedin]: https://www.linkedin.com/in/andrew-robinson-966329b8
